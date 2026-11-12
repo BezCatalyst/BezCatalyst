@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello world, welcome to my GitHub Profile. 👋
+- 🌱 I’m currently learning about AI automation and it led me to @RinDig 's profile where I learning filesystem structure as an ochestration layer while build folders.
 
+ - 🌱 I’m looking to collaborate with local irl businesses who want to design reliable systems for the boring parts using AI.
+
+ - you should connect with me on X.
 <!--
 **BezCatalyst/BezCatalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
